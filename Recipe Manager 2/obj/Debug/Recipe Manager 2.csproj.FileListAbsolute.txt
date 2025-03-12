@@ -1,0 +1,7 @@
+C:\Users\masha\source\repos\Recipe Manager 2\bin\Debug\Recipe Manager 2.exe.config
+C:\Users\masha\source\repos\Recipe Manager 2\bin\Debug\Recipe Manager 2.exe
+C:\Users\masha\source\repos\Recipe Manager 2\bin\Debug\Recipe Manager 2.pdb
+C:\Users\masha\source\repos\Recipe Manager 2\obj\Debug\Recipe Manager 2.csproj.AssemblyReference.cache
+C:\Users\masha\source\repos\Recipe Manager 2\obj\Debug\Recipe Manager 2.csproj.CoreCompileInputs.cache
+C:\Users\masha\source\repos\Recipe Manager 2\obj\Debug\Recipe Manager 2.exe
+C:\Users\masha\source\repos\Recipe Manager 2\obj\Debug\Recipe Manager 2.pdb
